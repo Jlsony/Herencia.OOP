@@ -1,0 +1,16 @@
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\bin\Debug\net8.0-windows\OOP.WinFormsApp1.exe
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\bin\Debug\net8.0-windows\OOP.WinFormsApp1.deps.json
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\bin\Debug\net8.0-windows\OOP.WinFormsApp1.runtimeconfig.json
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\bin\Debug\net8.0-windows\OOP.WinFormsApp1.dll
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\bin\Debug\net8.0-windows\OOP.WinFormsApp1.pdb
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.Form1.resources
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.AssemblyInfo.cs
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.dll
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\refint\OOP.WinFormsApp1.dll
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.pdb
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\OOP.WinFormsApp1.genruntimeconfig.cache
+C:\Users\jl-19\source\repos\OOP.WinFormsApp1\OOP.WinFormsApp1\obj\Debug\net8.0-windows\ref\OOP.WinFormsApp1.dll
